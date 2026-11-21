@@ -1,0 +1,16 @@
+{
+  "owner": "example-engineer",
+  "heading": "Service experiments",
+  "projects": [
+    {
+      "repo": "queue-demo",
+      "title": "Queue Demo",
+      "description": "Compare which synthetic jobs finish before a drain deadline."
+    },
+    {
+      "repo": "retry-demo",
+      "title": "Retry Demo",
+      "description": "Compare completion and attempt counts when a simulated dependency returns to health."
+    }
+  ]
+}
